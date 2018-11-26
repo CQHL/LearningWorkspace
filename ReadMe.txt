@@ -5,6 +5,7 @@
     JAVA设计模式
     工厂模式        ->com.pattern.sample.factory
     原型模式        ->com.pattern.sample.prototype
+    单例模式        ->com.pattern.sample.singleton
   
 《JUnit实战》.Petar Tahchiev etc 著.王奎 译.EIDTION 2
   2018.10.01
