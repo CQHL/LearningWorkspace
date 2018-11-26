@@ -1,8 +1,19 @@
-# Compiled class file
-*.class
 
 #compile folder
 .bin/
+
+#classpath
+.classpath
+
+#.project
+.project
+
+#settings/
+.settings/
+
+# Compiled class file
+*.class
+
 # Log file
 *.log
 
