@@ -1,4 +1,4 @@
-package com.partern.sample.prototype.framework;
+package com.pattern.sample.prototype.framework;
 
 import java.util.HashMap;
 

@@ -1,10 +1,10 @@
-package com.partern.sample.factory.IDCardWithCode;
+package com.pattern.sample.factory.IDCardWithCode;
 
 import java.util.HashMap;
 import java.util.Hashtable;
 
-import com.partern.sample.factory.framework.Factory;
-import com.partern.sample.factory.framework.Product;
+import com.pattern.sample.factory.framework.Factory;
+import com.pattern.sample.factory.framework.Product;
 
 public class IDCardFactory extends Factory{
 	private HashMap database = new HashMap();

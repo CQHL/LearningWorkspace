@@ -1,10 +1,10 @@
-package com.partern.sample.factory.IDCard;
+package com.pattern.sample.factory.IDCard;
 
 import java.awt.List;
 import java.util.ArrayList;
 
-import com.partern.sample.factory.framework.Factory;
-import com.partern.sample.factory.framework.Product;
+import com.pattern.sample.factory.framework.Factory;
+import com.pattern.sample.factory.framework.Product;
 
 public class IDCardFactory extends Factory {
 

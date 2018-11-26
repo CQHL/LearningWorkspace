@@ -1,4 +1,4 @@
-package com.partern.sample.factory.framework;
+package com.pattern.sample.factory.framework;
 
 public abstract class Factory {
  

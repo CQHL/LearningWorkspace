@@ -1,4 +1,4 @@
-package com.partern.sample.prototype.framework;
+package com.pattern.sample.prototype.framework;
 
 /**
  * Cloneable 被称为标记接口，标记类是否可以使用clone方法

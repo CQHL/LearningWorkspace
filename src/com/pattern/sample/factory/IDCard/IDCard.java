@@ -1,6 +1,6 @@
-package com.partern.sample.factory.IDCard;
+package com.pattern.sample.factory.IDCard;
 
-import com.partern.sample.factory.framework.Product;
+import com.pattern.sample.factory.framework.Product;
 
 public class IDCard extends Product {
 

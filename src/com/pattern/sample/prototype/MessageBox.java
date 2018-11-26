@@ -1,6 +1,6 @@
-package com.partern.sample.prototype;
+package com.pattern.sample.prototype;
 
-import com.partern.sample.prototype.framework.Product;
+import com.pattern.sample.prototype.framework.Product;
 
 public class MessageBox implements Product{
 

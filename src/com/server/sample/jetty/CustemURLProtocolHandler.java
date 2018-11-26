@@ -1,4 +1,4 @@
-package com.server.sample;
+package com.server.sample.jetty;
 
 import java.io.IOException;
 import java.net.URL;

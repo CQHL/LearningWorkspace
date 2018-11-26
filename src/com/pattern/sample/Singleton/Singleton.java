@@ -1,4 +1,4 @@
-package com.partern.sample.Singleton;
+package com.pattern.sample.Singleton;
 
 public class Singleton {
 
