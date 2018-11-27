@@ -19,6 +19,12 @@ public class MainBuilder {
 			director.constrauct();
 			String filename = htmlbuilder.getResult();
 			System.out.println(filename + "文件编写完成");
+		} else if (args[0].equalsIgnoreCase("pro")){
+			PropertyBuilder propertybuilder = new PropertyBuilder();
+			Director director = new Director(propertybuilder);
+			director.constrauct();
+			String filename = propertybuilder.getResult();
+			System.out.println(filename + "文件编写完成");
 		}else{
 			usage();
 			System.exit(0);
