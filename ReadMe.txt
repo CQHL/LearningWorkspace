@@ -8,6 +8,7 @@
     原型模式        ->com.pattern.sample.prototype      Tips:原型-具体原型-使用者
     单例模式        ->com.pattern.sample.singleton      Tips:private constructor
     Builder模式     ->com.pattern.sample.builder        Tips:建造者-具体建造者-监工-使用者
+        Point:保持知道于不知道 可替换性 framework keep unknow to the concrete actor
   
 《JUnit实战》.Petar Tahchiev etc 著.王奎 译.EIDTION 2
   2018.10.01
