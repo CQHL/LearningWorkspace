@@ -13,3 +13,7 @@
 《JUnit实战》.Petar Tahchiev etc 著.王奎 译.EIDTION 2
   2018.10.01
     Jetty轻量级服务器 内嵌stub测试        ->com.server.sample.jetty
+    
+《Effective Java中文版 第二版》.Joshua Bloch 著.杨春花 俞黎敏 译.
+   2019.01.03
+    Part1 创建和销毁对象 .1.2 静态工厂与构建器
